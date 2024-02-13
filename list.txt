@@ -3,3 +3,6 @@ things to do :
 1 wake up
 2 work
 3 eat
+4 drink
+5 study
+6 sleep
